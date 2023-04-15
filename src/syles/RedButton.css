@@ -1,0 +1,15 @@
+#RedButton {
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    width: 200px;
+    background: rgba(255, 0, 0, 0.5);
+    border: 1px solid rgba(255, 0, 0, 0.45);
+    border-radius: 6px;
+    color: #FAFAFA;
+}
+
+#RedButton svg {
+    height: 20px;
+    width: 20px;
+}

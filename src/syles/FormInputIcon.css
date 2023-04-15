@@ -1,0 +1,33 @@
+#FormInputTitle {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#IconButton {
+    height: 35px;
+    width: 40px;
+    margin: 5px;
+    border: solid 1px #3E3E3E;
+    background-color: #ECECEC;
+    border-radius: 6px;
+    display: flex;
+}
+
+#label {
+    height: 30px;
+    width: 300px;
+    border: solid 1px #3E3E3E;
+    border-radius: 6px;
+}
+
+#IconButton svg {
+    height: 30px;
+    width: 30px;
+}
+
+#InputBoxColumn {
+    display: flex;
+    align-items: center;
+}

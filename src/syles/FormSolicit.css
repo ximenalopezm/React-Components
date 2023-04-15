@@ -1,0 +1,16 @@
+* {
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.Row {
+    display: flex;
+    flex-direction: row;
+}
+
+#InputContainers {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
